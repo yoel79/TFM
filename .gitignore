@@ -1,2 +1,7 @@
 /Data
 /Documents
+/Informer_Model/lightning_logs
+/LSTM_Model/lightning_logs
+/Sentiment_Model/logs
+/Sentiment_Model/results
+/TFT_Model/lightning_logs
